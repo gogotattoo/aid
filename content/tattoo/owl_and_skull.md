@@ -15,42 +15,20 @@ location_country = "Russia"
 tattoodate = "2017-01-04T21:32:54+03:00"
 image = "owl_and_skull_final1"
 bodypart = [
-  "feet",
-  "shoulder",
-  "back",
-  "hand",
   "arm",
-  "chest",
-  "leg",
-  "forehead",
 ]
 extra = ""
-images = [
-]
-location_city = "Shanghai"
+location_city = "Gatchina"
 duration_mins = 200
 gender = "male"
 tags = [
-  "coloring",
-  "watercolor",
-  "cover",
-  "scarcover",
+  "owl",
+  "red",
+  "skull",
   "color",
-  "freehand",
-  "black and gray",
+  "black",
   "bird",
   "animal",
-  "dragon",
-  "flower",
-  "koi",
-  "lotus",
-  "stars",
-  "butterfly",
-  "skull",
-  "cat",
-  "colorful",
-  "simplicity",
-  "crazy",
 ]
 
 +++
