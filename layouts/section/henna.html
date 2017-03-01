@@ -14,8 +14,10 @@
             <div class="pin">
                 <a href="{{ .RelPermalink }}">
                   <figure>
-                    {{ with .Params.image_ipfs }}
-                      <img src="https://gateway.ipfs.io/ipfs/{{ . }}" alt="{{ $.Title }}" class="tattoo-image">
+                    {{ if .Params.image_ipfs }}
+                      <img src="https://gateway.ipfs.io/ipfs/{{ .Params.image_ipfs }}" alt="{{ .Title }}" class="tattoo-image">
+                    {{ else }}
+                      <img src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}" class="tattoo-image">
                     {{ end }}
                     <figcaption>{{ .Title }}</figcaption>
                   </figure>
@@ -27,9 +29,9 @@
 						</main>
 
 
-	</div>
-	</div>
-	</div>
+					</div>
+				</div>
+			</div>
 
 	{{ partial "js.html" . }}
 

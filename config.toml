@@ -4,6 +4,22 @@ title = "Valentin Aidov @ gogo.tattoo"
 copyright = "Valentin Aidov"
 googleAnalytics = "UA-79234406-1"
 
+defaultContentLanguage = "en"
+
+[Languages]
+  [Languages.en]
+    weight = 1
+    title = "Valentin Aidov @ gogo.tattoo"
+  [Languages.zh]
+    weight = 3
+    title = "Valentin Aidov @ gogo.tattoo"
+  [Languages.zh-hant]
+    weight = 2
+    title = "Valentin Aidov @ gogo.tattoo"
+  [Languages.ru]
+    weight = 2
+    title = "Valentin Aidov @ gogo.tattoo"
+
 [params]
 # The path must be relative to the static folder
 favicon = "favicon.ico"
@@ -12,9 +28,9 @@ favicon = "favicon.ico"
   name = "Valentin Aidov"
   avatar = "images/aid.png"
   description = "profile.description"
-  experience = "10+ years (since 2006)"
-  location = "Gatchina"
-  origin = "Russia"
+  experience = "profile.experience"
+  location = "profile.location"
+  origin = "profile.origin"
 
 # Navigation
 [params.navigation]

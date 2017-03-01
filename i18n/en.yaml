@@ -8,4 +8,10 @@
 
 # profile
 - id: profile.description
-  translation: ""
+  translation: "Everything started very early..."
+- id: profile.experience
+  translation: "10+ years (since 2006)"
+- id: proflie.location
+  translation: "Gatchina"
+- id: profile.origin
+  translation: "Russia"

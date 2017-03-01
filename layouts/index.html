@@ -10,14 +10,12 @@
           {{ partial "tags.html" . }}
            <div id="tattoo-wrapper">
               <div id="tattoo-columns">
-								{{ range (where .Data.Pages "Section" "tattoo") }}
+								{{ range .Data.Pages  }}
               		<div class="pin">
 											<a href="{{ .RelPermalink }}">
 												<figure>
-                          {{ if .Params.image_ipfs }}
-                            <img src="https://gateway.ipfs.io/ipfs/{{ .Params.image_ipfs }}" alt="{{ .Title }}" class="tattoo-image fadeIn"/>
-                          {{ else }}
-										        <img src="{{ $.Site.BaseURL }}images/tattoo/{{ .Params.image }}.jpg" alt="{{ .Title }}" class="tattoo-image">
+                          {{ with .Params.image_ipfs }}
+                            <img src="https://gateway.ipfs.io/ipfs/{{ . }}" alt="{{ $.Title }}" class="tattoo-image fadeIn"/>
                           {{ end }}
                           <figcaption>{{ .Title }}</figcaption>
 										    </figure>
