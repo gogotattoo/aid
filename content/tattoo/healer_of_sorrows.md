@@ -9,7 +9,7 @@ tags = [
   "dark",
   "cross",
 ]
-image_ipfs = "Qmac1Vbp8XmSxM2kP7wkLdgJhnsfTBxZmMkDXRVpE31seY"
+image_ipfs = "QmaqzUQjDExf4v4T4LvavHTq5aVkWQ2WKKn2wNVcJPJERz"
 location_country = "Russia"
 duration_mins = 90
 gender = "male"
