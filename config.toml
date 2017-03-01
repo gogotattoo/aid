@@ -11,7 +11,7 @@ favicon = "favicon.ico"
 [params.profile]
   name = "Valentin Aidov"
   avatar = "images/aid.png"
-  description = ""
+  description = "profile.description"
   experience = "10+ years (since 2006)"
   location = "Gatchina"
   origin = "Russia"

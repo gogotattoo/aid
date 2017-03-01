@@ -10,10 +10,10 @@ images_ipfs = [
 ]
 made_at_shop = "aidtattoo"
 date = "2017-01-04T21:32:54+03:00"
-title = "Owl and Skull"
+title = "Owl and skull"
 location_country = "Russia"
 tattoodate = "2017-01-04T21:32:54+03:00"
-image = "owl_and_skull_final1"
+image_ipfs = "QmbvtRExwEEFEJWUQLCbiEt1ywH3yGKEW115VXZYMmHM9g"
 bodypart = [
   "arm",
 ]

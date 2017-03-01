@@ -5,3 +5,7 @@
   translation: "Recognition for artists, trust for clients, authenticity for tattoos"
 - id: main.buttonText
   translation: "Learn more"
+
+# profile
+- id: profile.description
+  translation: ""
