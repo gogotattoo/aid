@@ -4,21 +4,18 @@ title = "Valentin Aidov @ gogo.tattoo"
 copyright = "Valentin Aidov"
 googleAnalytics = "UA-79234406-1"
 
-defaultContentLanguage = "en"
+DefaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = "false"
 
 [Languages]
   [Languages.en]
     weight = 1
-    title = "Valentin Aidov @ gogo.tattoo"
   [Languages.zh]
     weight = 3
-    title = "Valentin Aidov @ gogo.tattoo"
   [Languages.zh-hant]
     weight = 2
-    title = "Valentin Aidov @ gogo.tattoo"
   [Languages.ru]
     weight = 2
-    title = "Valentin Aidov @ gogo.tattoo"
 
 [params]
 # The path must be relative to the static folder
