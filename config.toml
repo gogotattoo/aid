@@ -30,6 +30,14 @@ favicon = "favicon.ico"
   origin = "profile.origin"
 
 # Navigation
+[params.nav]
+  tattoo = "nav.tattoo"
+  henna = "nav.henna"
+  design = "nav.design"
+  piercing = "nav.piercing"
+  dreadlocks = "nav.dreadlocks"
+  contact = "nav.contact"
+  
 [params.navigation]
   brand = "aid @ gogo tattoo  (Alpha)"
 

@@ -7,11 +7,23 @@
   translation: "Learn more"
 
 # profile
-- id: profile.description
-  translation: "Everything started very early..."
 - id: profile.experience
   translation: "10+ years (since 2006)"
-- id: proflie.location
+- id: profile.location
   translation: "Gatchina"
 - id: profile.origin
   translation: "Russia"
+- id: profile.description
+  translation: "It all began long ago, and now, looking back, I can see how the work I've done and my experiences have taken me from the moment I started drawing to the present. Since my childhood I've been drawing constantly, without paying attention to anything or anyone else. Art schools did not take to my drawing style, and I did not take to them. I wanted to paint something that inspired me, so I decided to learn everything on my own through trial and error, at first on paper and now for some time already in public. Family, my convictions, sports, a sober way of life, and endless work on myself have helped me to become what I am and to achieve success in my business! Having gone it the hard way, it makes me very happy =)))) to think of the challenges ahead and know I have something to strive for: Becoming a tattoo master!"
+
+
+- id: nav.tattoo
+  translation: "Tattoo"
+- id: nav.design
+  translation: "Design"
+- id: nav.henna
+  translation: "Henna"
+- id: nav.piercing
+  translation: "Piercing"
+- id: nav.dreadlocks
+  translation: "Dreadlocks"

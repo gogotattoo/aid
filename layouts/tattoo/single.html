@@ -13,8 +13,9 @@
                  {{ end }}
 								 <section itemprop="entry-text">
 									 {{ .Content }}
+                   {{ partial "controls.html" . }}
                  <div id="tattoo-wrapper">
-                    <div id="tattoo-columns-single">
+                    <div class="one-column" id="list">
 											{{ range .Params.images }}
 												{{ if not (eq $.Params.image .) }}
 		              				<div class="pin">
@@ -46,15 +47,11 @@
 											</div>
 			              </div>
                   </div>
-                  <ul class="tags">
-                    {{ range .Params.tags }}
-                      <li>
-                        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">
-                          {{ .  }}
-                        </a>
-                      </li>
-                    {{ end }}
-                  </ul>
+
+                  {{ partial "artwork_dates.html" . }}
+                  <div id="artwork-tags">
+                    {{ partial "artwork_tags.html" . }}
+                  </div>
 								</main>
 							</div>
 						</div>

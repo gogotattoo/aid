@@ -1,7 +1,23 @@
-# Landing
-- id: main.slogan
-  translation: "我們的使命是<br>創建更好的紋身世界"
-- id: main.subtitle
-  translation: '使紋身藝術家獲得認同感，展示身份，提高身價。<br><br>面對未知的下一個紋身來源，客戶可以付出更多信任。<br>有直觀的照片可以用來稽核，紋身的真實性可以保證。'
-- id: main.buttonText
-  translation: "我想知道多一些!"
+- id: profile.description
+  translation: "這一切都發生在很久以前。現在的我回頭看來。我意識到其實我在這一路上對自己的成長花費了很多精力，從我開始繪畫的那一刻起。
+自從我的童年開始，我便喜歡畫畫。我並不在意任何人的看法，只想隨時隨地的畫畫。
+長大後，我的藝術學校並不喜歡我的繪畫風格，而我也同樣並沒有把他們放在眼裡。
+我只畫一些能夠啟發我的東西。所以，即便定會經歷種種試驗和錯誤，我還是決定自學。
+在紙上，或者是在人們的皮膚上。
+家庭，運動，我的信仰，保持清醒和無盡的工作更能幫助我成為我想成為的自己，讓自己在事業上取得成就。
+我深知前路並非容易，當這反而讓我更加欣喜=）））。因為我找到了讓我努力競爭的理由！
+在成為紋身匠人的路上不斷前行。"
+
+#
+- id: nav.tattoo
+  translation: "紋身"
+- id: nav.design
+  translation: "設計"
+- id: nav.henna
+  translation: "海娜"
+- id: nav.piercing
+  translation: "穿孔"
+- id: nav.dreadlocks
+  translation: "臟辮"
+- id: nav.contact
+  translation: "聯繫我"

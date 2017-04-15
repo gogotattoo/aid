@@ -14,8 +14,8 @@
 								 <section itemprop="entry-text">
 									 {{ .Content }}
                    {{ partial "controls.html" . }}
-                   <div id="tattoo-wrapper">
-                     <div class="one-column" id="list">
+                 <div id="tattoo-wrapper">
+                    <div class="one-column" id="list">
 											{{ range .Params.images }}
 												{{ if not (eq $.Params.image .) }}
 		              				<div class="pin">
@@ -47,8 +47,21 @@
 											</div>
 			              </div>
                   </div>
-                  {{ partial "artwork_dates.html" . }}
+                  <div class="dates">
+                    {{ with .Params.made_date }}
+                      <div class="made_date">
+                        Tattoo Made: {{ dateFormat  "2006/01/02" . }}
+                      </div>
+                    {{ end }}
+                    {{ with .Date }}
+                      <div class="publish_date">
+                        Published: {{ .Format "2006/01/02" }}
+                      </div>
+                    {{ end }}
+                  </div>
+                  <div id="artwork-tags">
                   {{ partial "artwork_tags.html" . }}
+                  </div>
 								</main>
 							</div>
 						</div>
