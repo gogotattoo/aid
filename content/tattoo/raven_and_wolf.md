@@ -1,6 +1,6 @@
 +++
 location_country = "Russia"
-tattoodate = "2017-01-17T21:03:31+08:00"
+made_date = "2017-01-17T21:03:31+08:00"
 bodypart = [
   "shoulder",
 ]

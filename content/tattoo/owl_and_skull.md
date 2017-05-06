@@ -12,7 +12,7 @@ made_at_shop = "aidtattoo"
 date = "2017-01-04T21:32:54+03:00"
 title = "Owl and skull"
 location_country = "Russia"
-tattoodate = "2017-01-04T21:32:54+03:00"
+made_date = "2017-01-04T21:32:54+03:00"
 image_ipfs = "QmbvtRExwEEFEJWUQLCbiEt1ywH3yGKEW115VXZYMmHM9g"
 bodypart = [
   "arm",
@@ -30,5 +30,8 @@ tags = [
   "bird",
   "animal",
 ]
+[blockchain]
+steem = "art/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-tattoo-owlandskull"
+golos = "ru--tatu/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-ru-tattoo-owlandskull"
 
 +++

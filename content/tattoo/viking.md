@@ -23,6 +23,6 @@ duration_mins = 300
 date = "2017-01-08T14:26:19+08:00"
 location_country = "Russia"
 location_city = "Gatchina"
-tattoodate = "2017-01-05T14:26:19+08:00"
+made_date = "2017-01-05T14:26:19+08:00"
 
 +++

@@ -16,7 +16,7 @@ images_ipfs = [
 ]
 location_city = "Gatchina"
 extra = ""
-tattoodate = "2017-01-18T21:09:41+08:00"
+made_date = "2017-01-18T21:09:41+08:00"
 location_country = "Russia"
 date = "2017-01-23T21:09:41+08:00"
 title = "Tiger"

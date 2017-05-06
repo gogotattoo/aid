@@ -23,7 +23,7 @@ bodypart = [
   "shoulder",
 ]
 title = "Ork"
-tattoodate = "2017-01-19T21:09:06+08:00"
+made_date = "2017-01-19T21:09:06+08:00"
 location_city = "Gatchina"
 location_country = "Russia"
 gender = "male"
