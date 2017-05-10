@@ -22,5 +22,7 @@ images_ipfs = [  "QmbdTssWFZb6bmL9KGqkBMewLjVCBRV6M4MxezwYuGDRni",
 location_city = "Gatchina"
 location_country = "Russia"
 made_at_shop = "aid_tattoo"
-
+[blockchain]
+golos = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-ru-tattoo-tribalarmring"
+steem = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-tattoo-tribalarmring"
 +++
