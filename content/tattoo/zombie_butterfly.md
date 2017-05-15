@@ -23,7 +23,7 @@ images_ipfs = [
 
 location_city = "Saint-Petersburg"
 location_country = "Russia"
-made_at_shop = "spb_2017"
+event = "spb_2017"
 previous = ""
 
 [blockchain]

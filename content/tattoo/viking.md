@@ -6,7 +6,7 @@ images_ipfs = [
   "QmbQY5s82qb3GZ9nPrG5PPsYpNHCCnRYeGpKPwXGmuDJBT",
 ]
 image_ipfs = "QmaaZiy5zRtAwMVgyywZhweEBL72nmtYnASxhQCtYpTMEG"
-made_at_shop = "aidtattoo"
+made_at_shop = "aid_tattoo"
 extra = ""
 gender = "male"
 title = "Viking"

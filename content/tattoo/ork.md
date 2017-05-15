@@ -7,7 +7,7 @@ images_ipfs = [
   "QmS3ZZPMyHXJ2g4tsbnqJcnJZmdaynfwzXKDnkWawCDBis",
   "QmSatSLadgD77DL8ogREKm6hJqX1Q9u4F2UGouqYGafbGy",
 ]
-made_at_shop = "aidtattoo"
+made_at_shop = "aid_tattoo"
 date = "2017-01-23T21:09:06+08:00"
 tags = [
   "cover",

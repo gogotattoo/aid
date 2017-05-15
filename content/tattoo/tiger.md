@@ -21,6 +21,6 @@ location_country = "Russia"
 date = "2017-01-23T21:09:41+08:00"
 title = "Tiger"
 duration_mins = 90
-made_at_shop = "aidtattoo"
+made_at_shop = "aid_tattoo"
 
 +++

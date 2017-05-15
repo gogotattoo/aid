@@ -18,7 +18,7 @@ image_ipfs = "QmXB1Xp5XjueEztW64JcnB5JGBt3xAMoZW1U6P9a8Hi5yd"
 made_date = "2017-01-15T20:30:37+08:00"
 duration_mins = 180
 gender = "male"
-made_at_shop = "aidtattoo"
+made_at_shop = "aid_tattoo"
 extra = ""
 
 +++

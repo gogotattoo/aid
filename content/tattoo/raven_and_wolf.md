@@ -6,7 +6,7 @@ bodypart = [
 ]
 extra = ""
 duration_mins = 90
-made_at_shop = "aidtattoo"
+made_at_shop = "aid_tattoo"
 gender = "male"
 location_city = "Gatchina"
 tags = [

@@ -8,7 +8,7 @@ images_ipfs = [
   "QmcZN8UiBqpt6hZWbpxkxiY19mGy7bE588Bk57iEdVnNDy",
   "QmQmn9orRdEwyTCk5zRWNMYftcATf55BQyTw7b1vSKZeVE"
 ]
-made_at_shop = "aidtattoo"
+made_at_shop = "aid_tattoo"
 date = "2017-01-04T21:32:54+03:00"
 title = "Owl and skull"
 location_country = "Russia"
