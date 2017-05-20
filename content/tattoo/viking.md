@@ -24,5 +24,8 @@ date = "2017-01-08T14:26:19+08:00"
 location_country = "Russia"
 location_city = "Gatchina"
 made_date = "2017-01-05T14:26:19+08:00"
+[blockchain]
+steem = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-tattoo-viking"
+golos = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-ru-tattoo-viking"
 
 +++
