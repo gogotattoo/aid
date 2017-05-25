@@ -19,4 +19,7 @@ tags = [
 ]
 gender = "male"
 
+[blockchain]
+steem = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-tattoo-sunshield"
+golos = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-ru-tattoo-sunshield"
 +++

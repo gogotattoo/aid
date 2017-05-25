@@ -23,4 +23,7 @@ title = "Tiger"
 duration_mins = 90
 made_at_shop = "aid_tattoo"
 
+[blockchain]
+steem = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-tattoo-tiger"
+golos = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-ru-tattoo-tiger"
 +++
