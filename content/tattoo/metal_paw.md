@@ -21,4 +21,7 @@ gender = "male"
 made_at_shop = "aid_tattoo"
 extra = ""
 
+[blockchain]
+steem = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-tattoo-metalpaw"
+golos = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-ru-tattoo-metalpaw"
 +++
