@@ -23,4 +23,7 @@ date = "2017-01-23T21:03:31+08:00"
 title = "Raven and wolf"
 image_ipfs = "QmUzCHeBLYoZU177URLe4kWLJTC9LJS5VREYfHwdKfva3c"
 
+[blockchain]
+steem = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-tattoo-ravenandwolf"
+golos = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-ru-tattoo-ravenandwolf"
 +++
