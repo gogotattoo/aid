@@ -23,6 +23,7 @@ favicon = "favicon.ico"
 
 [params.profile]
   name = "Valentin Aidov"
+  fullname = "profile.fullname"
   avatar = "images/aid.png"
   description = "profile.description"
   experience = "profile.experience"
@@ -37,7 +38,7 @@ favicon = "favicon.ico"
   piercing = "nav.piercing"
   dreadlocks = "nav.dreadlocks"
   contact = "nav.contact"
-  
+
 [params.navigation]
   brand = "aid @ gogo tattoo  (Alpha)"
 
