@@ -27,5 +27,8 @@ made_date = "2017-01-19T21:09:06+08:00"
 location_city = "Gatchina"
 location_country = "Russia"
 gender = "male"
+[blockchain]
+steem = "art/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-tattoo-ork"
+golos = "ru--tatu/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-ru-tattoo-ork"
 
 +++
