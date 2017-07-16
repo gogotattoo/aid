@@ -17,5 +17,7 @@ made_at_shop = "aid_tattoo"
 previous = ""
 
 [blockchain]
+steem = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-tattoo-featherwolf"
+golos = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-ru-tattoo-featherwolf"
 
 +++
