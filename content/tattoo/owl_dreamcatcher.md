@@ -12,9 +12,9 @@ bodypart = ["arm"]
 image_ipfs = "QmYubFp5bwpCPD1g2TtEVbVGuv1GwDekmHH3Fns4J4gJkm"
 images_ipfs = ["QmZyZGEMUb24EbALqxEWLZigZKMVs7r8ooeHe1xjoY9WQn"]
 videos_ipfs = []
-location_city = "Shanghai"
-location_country = "China"
-made_at_shop = "chushangfeng"
+location_city = "Gatchina"
+location_country = "Russia"
+made_at_shop = "aid_tattoo"
 previous = ""
 
 [blockchain]
