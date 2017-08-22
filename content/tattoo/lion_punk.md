@@ -21,6 +21,6 @@ title = "Lion punk"
 
 [blockchain]
 steem = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-tattoo-lionpunk"
-golos = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-ru-tattoo-lionpunk"
+golos = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-tattoo-lionpunk"
 
 +++
