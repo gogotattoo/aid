@@ -25,4 +25,7 @@ location_country = "Russia"
 made_at_shop = "aid_tattoo"
 previous = ""
 
+[blockchain]
+steem = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-tattoo-colorfulcolibri"
+golos = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-ru-tattoo-colorfulcolibri"
 +++
