@@ -16,7 +16,7 @@ gender = "male"
 made_at_shop = "aid_tattoo"
 location_city = "Gatchina"
 made_date = "2017-08-07T12:39:38+08:00"
-date = "2017-09-21T15:51:38+08:00"
+date = "2017-08-21T15:51:38+08:00"
 title = "Lion punk"
 
 [blockchain]
