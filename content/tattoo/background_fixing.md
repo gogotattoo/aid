@@ -29,7 +29,7 @@ made_at_shop = "chushangfeng"
 previous = ""
 
 [blockchain]
-  steem = ""
-  golos = ""
+steem = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-tattoo-backgroundfixing"
+golos = "tattoo/@gogo.tattoo/valentin-aidov-gogo-tattoo-aid-ru-tattoo-backgroundfixing"
 
 +++
