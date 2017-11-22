@@ -24,7 +24,7 @@ favicon = "favicon.ico"
 [params.profile]
   name = "Valentin Aidov"
   fullname = "profile.fullname"
-  avatar = "images/aid.png"
+  avatar = "/images/aid.png"
   description = "profile.description"
   experience = "profile.experience"
   location = "profile.location"
